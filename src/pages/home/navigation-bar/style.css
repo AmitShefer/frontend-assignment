@@ -1,0 +1,10 @@
+.navigation-bar {
+    min-width: 220px;
+    height: 100vh;
+    padding: 30px;
+    background-color: #221C2B;
+}
+.create-contact-button {
+    margin-top: 30px;
+    width: 100%;
+}
